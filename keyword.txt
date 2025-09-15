@@ -1,0 +1,4 @@
+Palavra chave das aulas:
+1 - langchain
+2 - chunks
+3 - langgraph
